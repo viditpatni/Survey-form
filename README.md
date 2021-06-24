@@ -1,2 +1,2 @@
 # Survey-form
-Sample survey form using html and css
+I created a survey form using HTML and CSS. 
